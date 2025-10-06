@@ -48,7 +48,7 @@ Using EDA, we assess how **seasonality**, **working days/holidays**, and **weath
 
 ## Data
 
-The `day.csv` file contains daily records with fields such as **season (1–4), year (0/1), month (1–12), holiday, weekday, workingday, weather situation (1–4), temp, atemp, hum, windspeed, casual, registered, cnt** (total rentals). :contentReference[oaicite:0]{index=0}
+The `day.csv` file contains daily records with fields such as **season (1–4), year (0/1), month (1–12), holiday, weekday, workingday, weather situation (1–4), temp, atemp, hum, windspeed, casual, registered, cnt** (total rentals).
 
 ## Key Insights
 
